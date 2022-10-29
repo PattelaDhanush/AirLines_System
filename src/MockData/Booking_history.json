@@ -1,0 +1,20 @@
+ [
+    {
+        "transaction_Id":"123456",
+        "trans_date": "29-10-2022 12:00",
+        "transfer_type": "BUSINESS CLASS",
+        "booking_status": "BOOKED",
+        "from": "Hyd",
+        "to": "BANGLORE"
+
+    },
+    {
+        "transaction_Id":"789654",
+        "trans_date": "31-12-2022 14:00",
+        "transfer_type": "FIRST CLASS",
+        "booking_status": "BOOKED",
+        "from": "VARANASI",
+        "to": "BANGLORE"
+
+    }
+]
